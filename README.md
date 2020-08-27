@@ -1,2 +1,2 @@
 # Hinda
-This is git.
+This is git.I am editing the README file . Adding some more details about the project description.
